@@ -59,8 +59,6 @@ The core modules are:
 
 ## Dataset and Preprocessing
 
-## Dataset and Preprocessing
-
 The system is trained on the publicly available **Fall Vision: A Benchmark Video Dataset for Advancing Fall Detection Technology** (Rahman et al., 2024) [@fallvision]. This dataset consists of videos of staged falls and non-falls across multiple scenarios. Keypoints for each frame were extracted and stored as CSV files.  
 
 For **posture classification**, sequences of **30 frames** (≈1s) are used.  
