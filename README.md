@@ -122,7 +122,7 @@ Before training any models, you must first generate the training datasets (pose 
 ### Step 1: Generate Keypoint Data (Preprocessing)
 
 ```
-python scripts/extract_keypoints.py
+python scripts/download_and_extract_harvard.py
 ```
 
 This script:
